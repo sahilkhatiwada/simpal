@@ -1,0 +1,3 @@
+# simpal
+Calculates simple interest.
+
